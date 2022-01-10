@@ -5,7 +5,7 @@
 ### Routes
 - > /refresh
     - Fetch and update the mentor data from the given API on the server
-    - Stored in [mentor_data.json](https://github.com/udbhavsomani/Fetch-API/blob/main/data/mentor_data.json)
+    - Data is fetched and gets stored in [mentor_data.json](https://github.com/udbhavsomani/Fetch-API/blob/main/data/mentor_data.json)
 - > /
     - Returns the stored mentor list : an array of JSON objects
 - > /getdata
