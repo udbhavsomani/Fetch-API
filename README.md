@@ -16,6 +16,7 @@
     - **Query Params should be within the range of the mentor list**
 
 ### Setup
-- > npm install
-- > npm run start
-    - Local development server will start at http://localhost:3000
+- > Clone this repo and run the following commands
+    - > ```npm install```
+    - > ```npm run start```
+        - Local development server will start at http://localhost:3000
