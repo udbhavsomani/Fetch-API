@@ -20,3 +20,7 @@
     - ```npm install```
     - ```npm run start```
         - Local development server will start at http://localhost:3000
+
+### Tech-Stack
+- NodeJs
+- ExpressJs
