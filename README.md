@@ -17,6 +17,6 @@
 
 ### Setup
 - > Clone this repo and run the following commands
-    - > ```npm install```
-    - > ```npm run start```
+    - ```npm install```
+    - ```npm run start```
         - Local development server will start at http://localhost:3000
